@@ -1,0 +1,7 @@
+workingdir
+
+# ignore secrets
+secrets/*
+!secrets/.gitkeep
+
+**/node_modules
