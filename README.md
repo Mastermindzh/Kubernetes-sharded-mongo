@@ -19,5 +19,5 @@ Given a value of 2 this will leave you with the following architecture:
   * 1 master node
   * 2 slave nodes
 
-Which would look something like this:
+Which would look something like this:  
 ![image showing 2 shards and 1 mongos router](./assets/2shard.png)
